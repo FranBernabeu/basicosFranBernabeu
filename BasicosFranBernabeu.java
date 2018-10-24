@@ -28,6 +28,7 @@ public class BasicosFranBernabeu {
         System.out.println("Nombre completo");
         System.out.println(cadenas2);
        }
+}
     
    
 }
