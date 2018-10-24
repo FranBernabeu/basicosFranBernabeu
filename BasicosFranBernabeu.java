@@ -65,8 +65,8 @@ public class BasicosFranBernabeu {
         System.out.println(cadenas3);
         System.out.println("Nombre completo");
         System.out.println(cadenas4);
-        System.out.println("caracter 20");
-        System.out.println(cadenas4.charAt(20));
+        System.out.println("caracter 15");
+        System.out.println(cadenas4.charAt(15));
         System.out.println("Longuitud Nombre");
         System.out.println(cadenas4.length());
     }
