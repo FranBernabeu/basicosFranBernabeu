@@ -11,11 +11,25 @@ package basicosfranbernabeu;
  */
 public class BasicosFranBernabeu {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
     
+    public static void cadenas(char Fran, char Bernabeu) {
+        
+        char cadenas;
+        char cadenas1;
+        
+        cadenas = Fran;
+        cadenas1 = Bernabeu;
+        String cadenas2 = "Fran Bernabeu Agullo";
+        
+        System.err.println("Nombre");
+        System.out.println(cadenas);
+        System.out.println("Apellido");
+        System.out.println(cadenas1);
+        System.out.println("Nombre completo");
+        System.out.println(cadenas2);
+       }
+    
+   
 }
+
+
