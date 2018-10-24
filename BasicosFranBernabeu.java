@@ -14,8 +14,12 @@ public class BasicosFranBernabeu {
     /**
      * @param args the command line arguments
      */
-    private static void logicos(boolean blanco, boolean negro) {
-        // TODO code application logic here
+    private static void logicos() {
+        boolean blanco;
+        boolean negro;
+        
+        blanco = true;
+        negro = false;
    
    
         System.out.println("Color Blanco");
