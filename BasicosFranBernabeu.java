@@ -36,6 +36,6 @@ public class BasicosFranBernabeu {
          public static void main(String[] args) {
         numericos();
 }   // TODO code application logic here
-    }
+}
 
 
