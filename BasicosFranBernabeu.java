@@ -12,7 +12,7 @@ package basicosfranbernabeu;
 public class BasicosFranBernabeu {
 
     
-    private static void cadenas() {
+    public static void cadenas() {
         
    
         String cadenas = "Fran";
