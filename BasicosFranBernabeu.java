@@ -12,23 +12,22 @@ package basicosfranbernabeu;
 public class BasicosFranBernabeu {
 
     
-    public static void cadenas(char Fran, char Bernabeu) {
+    private static void cadenas() {
         
-        char cadenas;
-        char cadenas1;
-        
-        cadenas = Fran;
-        cadenas1 = Bernabeu;
+   
+        String cadenas = "Fran";
+        String cadenas1 = "Bernabeu";
         String cadenas2 = "Fran Bernabeu Agullo";
         
-        System.err.println("Nombre");
+        System.out.println("Nombre:");
         System.out.println(cadenas);
-        System.out.println("Apellido");
+        System.out.println("Apellido:");
         System.out.println(cadenas1);
         System.out.println("Nombre completo");
         System.out.println(cadenas2);
        }
-}
+
+       }
     
    
 
