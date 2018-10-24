@@ -14,17 +14,21 @@ public class BasicosFranBernabeu {
     
     public static void cadenas() {
         
+        
    
-        String cadenas = "Fran";
-        String cadenas1 = "Bernabeu";
-        String cadenas2 = "Fran Bernabeu Agullo";
+        char cadenas = 'F';
+        char cadenas1 = 'r';
+        char cadenas2 = 'a';
+        char cadenas3 = 'n';
+        String cadenas4 = "Fran Bernabeu Agullo";
         
         System.out.println("Nombre:");
         System.out.println(cadenas);
-        System.out.println("Apellido:");
         System.out.println(cadenas1);
-        System.out.println("Nombre completo");
         System.out.println(cadenas2);
+        System.out.println(cadenas3);
+        System.out.println("Nombre completo");
+        System.out.println(cadenas4);
        }
 
        }
