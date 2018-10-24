@@ -11,6 +11,7 @@ package basicosfranbernabeu;
  */
 public class BasicosFranBernabeu {
 
+
    
          
     public static void numericos() {
@@ -44,10 +45,33 @@ public class BasicosFranBernabeu {
         System.out.println(duplicaEntero);
         System.out.println("Valor redondo");
         System.out.println(grande);
+    }  // TODO code application logic here
+
+  
+    public static void cadenas() {
+        
+        
+   
+        char cadenas = 'F';
+        char cadenas1 = 'r';
+        char cadenas2 = 'a';
+        char cadenas3 = 'n';
+        String cadenas4 = "Fran Bernabeu Agullo";
+        
+        System.out.println("Nombre:");
+        System.out.println(cadenas);
+        System.out.println(cadenas1);
+        System.out.println(cadenas2);
+        System.out.println(cadenas3);
+        System.out.println("Nombre completo");
+        System.out.println(cadenas4);
     }
-         public static void main(String[] args) {
+public static void main(String[] args) {
         numericos();
-}   // TODO code application logic here
+        cadenas();
+       }
 }
+   
+
 
 
